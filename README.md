@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgaprimevideo.ccbp.tech/](https://durgaprimevideo.ccbp.tech/)🔗
+## **_Website_**:[https://sanojprimevid.ccbp.tech/](https://sanojprimevid.ccbp.tech/)🔗
 
 
 In this project, let's build a **Prime Video** by applying the concepts we have learned till now.
